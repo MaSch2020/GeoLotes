@@ -1,6 +1,6 @@
-# 🏡 GeoLotesSite
+## 🏡 GeoLotesSite
 
-	El sistema online propuesto deberá satisfacer las necesidad de los dueños de los terrenos como la de obtención de datos actualizados en todo momento sobre sus bienes, como así también sobre las personas que adquirieron los mismos y/o están en proceso de ello. Así se propone una gestión total del mismo desde la página web. Así mismo también la gestión del marketing y los prospectos que ello pueda obtener.
+ El sistema online propuesto deberá satisfacer las necesidad de los dueños de los terrenos como la de obtención de datos actualizados en todo momento sobre sus bienes, como así también sobre las personas que adquirieron los mismos y/o están en proceso de ello. Así se propone una gestión total del mismo desde la página web. Así mismo también la gestión del marketing y los prospectos que ello pueda obtener.
 
 
 ---
