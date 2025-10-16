@@ -24,7 +24,7 @@
 
 ## ⚙️ Instalación
 
-1. **Clonar el repositorio**
+## **Clonar el repositorio**
 
 ```bash
 git clone https://github.com/tu_usuario/GeoLotesSite.git
